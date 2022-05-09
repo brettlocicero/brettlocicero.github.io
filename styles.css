@@ -4,10 +4,13 @@ body {
     margin: 0;
 }
 
-a {
-    color: #5386E4
+* {
     font-family: Arial;
     font: Arial;
+}
+
+a {
+    color: #5386E4
 }
 
 a:active {
