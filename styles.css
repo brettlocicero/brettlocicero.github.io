@@ -6,8 +6,8 @@ body {
 
 a {
     color: #5386E4
-    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
-    font: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    font-family: font-family: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    font: font-family: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 }
 
 a:active {
