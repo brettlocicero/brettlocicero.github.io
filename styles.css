@@ -5,8 +5,8 @@ body {
 }
 
 * {
-    font-family: "Menlo";
-    font: "Menlo";
+    font-family: "Courier New", Courier, monospace;
+    font: "Courier New", Courier, monospace;
 }
 
 a {
