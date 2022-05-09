@@ -2,7 +2,7 @@ body {
     background-color: rgb(15, 15, 15);
     height: 100%;
     margin: 0;
-    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    font-family: font-family: Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 }
 
 a {
