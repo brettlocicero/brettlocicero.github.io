@@ -1,3 +1,7 @@
+<?php
+    //echo "PHP7 running";
+?>
+
 <!DOCTYPE html>
 <html>
     <head>
